@@ -1,19 +1,20 @@
 .hello {
-    margin-top: 22px;
+    margin-top: 150px;
     width: 637px;
 }
 
 .hello__title {
-    font-family: 'OpenSans';
+    /* font-family: 'OpenSans'; */
     font-weight: 700;
-    font-size: 60px;
+    font-size: 40px;
     line-height: 64px;
     color: #FFFFFF;
 }
 
 .hello_subtitle {
-
-    font-family: 'Open Sans';
+    margin-top: 22px;
+    margin-bottom: 75px;
+    /* font-family: 'OpenSans'; */
     font-style: normal;
     font-weight: 400;
     font-size: 21px;
@@ -22,6 +23,19 @@
 }
 
 .button__hello {
-    margin-top: 79px;
-    color: #FFFFFF;
+    /* margin-top: 75px; */
+    background: #8F00FF;
+    border-radius: 5px;
+    height: 55px;
+    width: 168px;
+    display: table-cell;
+    /* font-family: 'OpenSans'; */
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 16px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+    text-align:center;
+    vertical-align:middle;
+    
 }

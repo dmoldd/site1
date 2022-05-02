@@ -20,10 +20,17 @@
 .contacts {
 	float: right;
 	margin-top: 35px;
+	/* font-family: 'OpenSans'; */
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 30px;
+	font-style: normal;
+	/* letter-spacing:1px; */
+	color: #FFFFFF;
 }
 
 .menu__item {
-    margin-right: 65px;
+    margin-right: 63px;
 	color: #FFFFFF;
 }
 .menu {
@@ -33,4 +40,17 @@
 
 .contacts__phone, .contacts__info {
 	color: #FFFFFF;
+}
+
+
+.contacts__info {
+	/* font-family: 'OpenSans'; */
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 20px;
+	text-decoration-line: underline;
+	letter-spacing:normal;	
+	color: #FFFFFF;
+	text-align: right;
+
 }

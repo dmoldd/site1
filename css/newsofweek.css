@@ -1,10 +1,10 @@
 .newsofweek {
-    margin-top: 198px;
+    margin-top: 97px;
     width: 1140px;
 }
 
 .title--new {
-    font-family: 'OpenSans';
+    /* font-family: 'OpenSans'; */
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
@@ -67,6 +67,11 @@
 .title--new, .newsofweek__img--new {
     display: inline-block;
 
+}
+
+.newsofweek__img--new {
+    position: relative;
+    top: 9px;
 }
 
 .title--new {
