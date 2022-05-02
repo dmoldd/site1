@@ -1,0 +1,23 @@
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap'); 
+ /* ДОБАВИЛ ШРИФТЫ  */
+
+ @import url(base.css);
+ /* ПОДКЛЮЧИЛ CSS-ФАЙЛ С НАСТРОЙКАМИ ПО УМОЛЧАНИЮ */
+
+ @import url(header.css);
+ /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ ХЭДЭРА */
+
+ @import url(hello.css);
+ /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ ПРИВЕТСТВИЯ */
+
+ @import url(newsofweek.css);
+ /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ "НОВИНКИ НЕДЕЛИ" */
+
+ @import url(lastgames.css);
+ /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ "ПРОШЕДШИЕ ИГРЫ" */
+
+ @import url(aboutus.css);
+ /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ "О НАС" */
+
+ @import url(footer.css);
+ /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ ФУТЭРА */

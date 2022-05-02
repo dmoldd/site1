@@ -1,0 +1,86 @@
+.lastgames {
+    /* height: 128px; */
+    margin-top: 79px;
+}
+
+.lastgames__title {
+    font-family: 'OpenSans';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
+}
+
+.lastgames__item, .lastgames__item2  {
+
+    display:inline-block;
+}
+
+.lastgames__item2 {
+    margin-left: 10px;
+}
+
+.lastgames__item {
+    width: 557px;
+    height: 394px;
+    background: url("../img/lastgames/lastgames1.png");
+    background-repeat: no-repeat;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.lastgames__item2 {
+    width: 557px;
+    height: 394px;
+    background: url("../img/lastgames/lastgames2.png");
+    background-repeat: no-repeat;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.lastgames__item--text {
+    margin-top: 254px;
+    margin-left: 28px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.lastgames__item--title {
+    margin-top: 11px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+
+.lastgames__navigation--item, .lastgames__navigation--text {
+    display: inline-block;
+}
+
+.lastgames__navigation--text {
+    margin-right: 30px;
+}
+
+.lastgames__navigation {
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'OpenSans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}

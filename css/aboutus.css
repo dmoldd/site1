@@ -1,0 +1,21 @@
+/* .container {
+    position: absolute;
+} */
+
+.aboutus__block {
+
+    height: 505px;
+    width: 486px;
+    background: url("../img/aboutus/aboutus1.png");
+    background-repeat: no-repeat;
+}
+
+.aboutus__block2 {
+    position: relative;
+    top: -400px;
+    left: 350px;
+    height: 455px;
+    width: 785px;
+    background: url("../img/aboutus/aboutus2.png");
+    background-repeat: no-repeat;
+}

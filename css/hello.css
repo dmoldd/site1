@@ -1,0 +1,27 @@
+.hello {
+    margin-top: 22px;
+    width: 637px;
+}
+
+.hello__title {
+    font-family: 'OpenSans';
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 64px;
+    color: #FFFFFF;
+}
+
+.hello_subtitle {
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.button__hello {
+    margin-top: 79px;
+    color: #FFFFFF;
+}
