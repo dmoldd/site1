@@ -1,1 +1,44 @@
-ф
+.footer {
+    margin-top: -330px;
+}
+
+.footer__logo, .footer__menu, .footer__menu--item, .contacts {
+	display: inline-block;
+}
+
+.menu__item {
+    margin-right: 63px;
+	color: #FFFFFF;
+}
+.footer__menu {
+	margin-left: 115px;
+	margin-top: 40px;
+}
+
+.footer__menu--list {
+
+}
+
+.footer__logo {
+    display: inline-block;
+
+	margin-top: 1px;
+}
+
+.footer__logo--img {
+	margin-top: 1px;
+}
+
+.footer__socialmedia--item {
+    display: inline-block;
+    margin-top: 1px;
+}
+
+.footer__socialmedia {
+    display: inline-block;
+
+}
+
+.footer__socialmedia--img {
+    
+}
