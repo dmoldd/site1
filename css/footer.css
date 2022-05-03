@@ -40,5 +40,7 @@
 }
 
 .footer__socialmedia--img {
-    
+    position: relative;
+    top: 10px;
+    left: 44px;
 }
