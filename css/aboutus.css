@@ -2,6 +2,10 @@
     position: absolute;
 } */
 
+.aboutus {
+    margin-top: 145px;
+}
+
 .aboutus__block {
 
     height: 505px;
@@ -19,3 +23,45 @@
     background: url("../img/aboutus/aboutus2.png");
     background-repeat: no-repeat;
 }
+
+.aboutus__block2--container {
+    padding-left: 90px;
+    padding-top: 73px;
+}
+
+.aboutus__block2--title {
+   /* font-family: 'OpenSans'; */
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 42px;
+    color: #FFFFFF; 
+}
+
+.aboutus__block2--text {
+    padding-top: 40px;
+    /* font-family: 'OpenSans'; */
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #FFFFFF;
+    width: 502px;
+}
+
+.aboutus__block2--button {
+    margin-top: 45px;
+    border-radius: 5px;
+    height: 55px;
+    width: 168px;
+    display: inline-block;
+    /* font-family: 'OpenSans'; */
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align:center;
+    vertical-align:middle;
+    padding-top: 18px;
+    border: 1px solid #FFFFFF;
+}
+        /*  */
