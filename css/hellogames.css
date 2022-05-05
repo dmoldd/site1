@@ -1,0 +1,21 @@
+.hellogames__title {
+    /* font-family: 'Open Sans'; */
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 84px;
+    color: #FFFFFF;
+}
+
+.hellogames__links {
+    padding-top: 100px;
+    font-family: 'OpenSans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration-line: underline;
+    color: #9A9A9A;
+}
+
+.hellogames__link1 {
+    font-weight: bold;
+}
