@@ -1,0 +1,37 @@
+/* .partners {
+    display: inline-flex;
+} */
+
+
+
+.partners {
+    flex-direction: column;
+    background: #F4F5F5;
+}
+
+.partners__title {
+    font-family: 'OpenSans';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #1A1B1E;
+}
+
+.partners__first {
+    display: flex;
+    justify-content: space-between;
+}
+
+.partners__second {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .partners__item:nth-child(5) { */
+    /* margin-right: 80px; */ */
+/* }
+
+/* .partners__sеcond {
+    display: inline-flex;
+} */

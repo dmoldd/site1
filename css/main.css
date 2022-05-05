@@ -1,9 +1,6 @@
  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap'); 
  /* ДОБАВИЛ ШРИФТЫ  */
 
- @import url(base.css);
- /* ПОДКЛЮЧИЛ CSS-ФАЙЛ С НАСТРОЙКАМИ ПО УМОЛЧАНИЮ */
-
  @import url(header.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ ХЭДЭРА */
 
@@ -21,3 +18,15 @@
 
  @import url(footer.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ ФУТЭРА */
+
+ @import url(hellogames.css);
+/* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ СЕКЦИИ "ИГРЫ-ПРИВЕТСТВИЕ" */
+
+ @import url(gamesitems.css);
+/* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ СЕКЦИИ "ИГРЫ" */
+
+ @import url(partners.css);
+/* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ СЕКЦИИ "ПАРТНЕРЫ" */
+
+@import url(base.css);
+/* ПОДКЛЮЧИЛ CSS-ФАЙЛ С НАСТРОЙКАМИ ПО УМОЛЧАНИЮ */
