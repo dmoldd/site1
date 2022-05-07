@@ -1,13 +1,19 @@
 .gamesitems {
+    padding-top: 105px;
     margin-bottom: 60px;
     background: #FFFFFF;
     display: flex;
     flex-direction: column;
  }
 
+ .gamesitems__item:nth-child(2) {
+     margin-top: 45px;
+ }
+
+
  .gamesitems__img {
-     height: 337px;
-     width: 459px;
+     min-height: 337px;
+     min-width: 459px;
      border-radius: 3px;
  }
 
@@ -17,7 +23,7 @@
  }
 
  .gamesitems__item--right {
-     margin-left: 30px;
+     margin-left: 65px;
      display: flex;
      flex-direction: column;
      justify-content: space-around;
@@ -31,4 +37,48 @@
     align-items: center;
     color: #303030;
     width: 652px;
+}
+
+.gamesitems__item--title {
+    /* font-family: 'OpenSans'; */
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.gamesitems__navigation--item, .gamesitems__navigation--text {
+    display: inline-block;
+}
+
+.gamesitems__navigation--text {
+    margin-right: 30px;
+    font-family: 'OpenSans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    padding-right: 65px;
+}
+
+
+
+.gamesitems__navigation {
+    margin-top: 63px;
+    padding-bottom: 90px;
+    text-align: center;
+    font-family: 'OpenSans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.gamesitems__navigation--item {
+    font-family: 'OpenSans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    color: #000000;
 }

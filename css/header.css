@@ -5,20 +5,24 @@
 	max-width: 1141px;
 }
 
-.logo, .menu, .menu__item, .contacts {
-	display: inline-block;
+.menu, .menu__item, .contacts {
+	display: flex;
+}
+
+.menu {
+	margin-left: 73px;
+}
+
+.header__container {
+	display: flex;
+	justify-content: space-between;
 }
 
 .logo, .contacts {
 	margin-top: 29px;
 }
 
-.logo {
-	float: left;
-}
-
 .contacts {
-	float: right;
 	margin-top: 35px;
 	/* font-family: 'OpenSans'; */
 	font-weight: 400;
@@ -33,9 +37,14 @@
     margin-right: 63px;
 	color: #FFFFFF;
 }
+
 .menu {
-	margin-left: 260px;
+
 	margin-top: 40px;
+}
+
+.menu__list {
+	display: flex;
 }
 
 .contacts__phone, .contacts__info {

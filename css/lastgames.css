@@ -79,7 +79,7 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
-    color: #FFFFFF;
+    color: #000000;
     padding-right: 65px;
 }
 
@@ -92,7 +92,7 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
-    color: #FFFFFF;
+    color: #000000;
 }
 
 .lastgames__navigation--item {
@@ -100,7 +100,7 @@
     font-weight: 700;
     font-size: 16px;
     line-height: 21px;
-    color: #FFFFFF;
+    color: #000000;
 }
 
 .lastgames__navigation--button {
