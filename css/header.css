@@ -5,7 +5,9 @@
 	max-width: 1141px;
 }
 
-.menu, .menu__item, .contacts {
+.menu,
+.menu__item,
+.contacts {
 	display: flex;
 }
 
@@ -18,7 +20,8 @@
 	justify-content: space-between;
 }
 
-.logo, .contacts {
+.logo,
+.contacts {
 	margin-top: 29px;
 }
 
@@ -34,7 +37,7 @@
 }
 
 .menu__item {
-    margin-right: 63px;
+	margin-right: 63px;
 	color: #FFFFFF;
 }
 
@@ -47,7 +50,8 @@
 	display: flex;
 }
 
-.contacts__phone, .contacts__info {
+.contacts__phone,
+.contacts__info {
 	color: #FFFFFF;
 }
 
@@ -62,7 +66,7 @@
 	font-size: 16px;
 	line-height: 20px;
 	text-decoration-line: underline;
-	letter-spacing:normal;	
+	letter-spacing: normal;
 	color: #FFFFFF;
 	text-align: right;
 }

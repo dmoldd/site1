@@ -49,7 +49,9 @@
     top: 5px;
 }
 
-.newsofweek__feature--img, .newsofweek__feature--text, .newsofweek__feature{
+.newsofweek__feature--img,
+.newsofweek__feature--text,
+.newsofweek__feature {
     display: inline-block;
 }
 
@@ -58,7 +60,7 @@
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 22px; 
+    line-height: 22px;
     color: #666666;
     padding-right: 50px;
 }
@@ -74,7 +76,8 @@
     color: #303030;
 }
 
-.title--new, .newsofweek__img--new {
+.title--new,
+.newsofweek__img--new {
     display: inline-block;
 
 }
@@ -100,8 +103,8 @@
     line-height: 16px;
     text-transform: uppercase;
     color: #8F00FF;
-    text-align:center;
-    vertical-align:middle;
+    text-align: center;
+    vertical-align: middle;
     padding-top: 18px;
     border: 1px solid #8F00FF;
 }
@@ -118,13 +121,10 @@
     line-height: 16px;
     text-transform: uppercase;
     color: #ffffff;
-    text-align:center;
-    vertical-align:middle;
+    text-align: center;
+    vertical-align: middle;
     padding-top: 18px;
     background-color: #8F00FF;
 }
 
-.button--light {
-
-}
-
+.button--light {}

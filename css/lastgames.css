@@ -12,9 +12,10 @@
     margin-bottom: 50px;
 }
 
-.lastgames__item, .lastgames__item2  {
+.lastgames__item,
+.lastgames__item2 {
 
-    display:inline-block;
+    display: inline-block;
 }
 
 .lastgames__item2 {
@@ -68,7 +69,8 @@
     color: #FFFFFF;
 }
 
-.lastgames__navigation--item, .lastgames__navigation--text {
+.lastgames__navigation--item,
+.lastgames__navigation--text {
     display: inline-block;
 }
 
@@ -103,7 +105,4 @@
     color: #000000;
 }
 
-.lastgames__navigation--button {
-
- 
-}
+.lastgames__navigation--button {}

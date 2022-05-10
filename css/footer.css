@@ -1,20 +1,21 @@
 footer {
-
     padding-bottom: 50px;
-
 }
 
-.footer__menu, .footer__menu--item, .contacts {
-	display: flex;
+.footer__menu,
+.footer__menu--item,
+.contacts {
+    display: flex;
 }
 
 .menu__item {
     margin-right: 63px;
-	color: #FFFFFF;
+    color: #FFFFFF;
 }
+
 .footer__menu {
-	margin-left: 115px;
-	margin-top: 0px;
+    margin-left: 115px;
+    margin-top: 0px;
     margin-right: 25px;
 }
 
@@ -26,11 +27,11 @@ footer {
 .footer__logo {
     display: inline-block;
 
-	margin-top: 1px;
+    margin-top: 1px;
 }
 
 .footer__logo--img {
-	margin-top: 30px;
+    margin-top: 30px;
 }
 
 .footer__socialmedia--item {
@@ -47,9 +48,7 @@ footer {
     margin-right: 45px;
 }
 
-.footer__socialmedia--img {
-
-}
+.footer__socialmedia--img {}
 
 .footer__contacts {
     margin-top: 15px;

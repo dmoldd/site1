@@ -38,22 +38,24 @@ footer {
 }
 
 .partners__item {
-    filter: grayscale(1);  
+    filter: grayscale(1);
 }
 
 .partners__item:hover {
-    filter: grayscale(0);  
+    filter: grayscale(0);
 }
 
-.partners__first > .partners__item:nth-child(2) {
+.partners__first>.partners__item:nth-child(2) {
     margin-left: -80px;
 }
 
-.partners__first > .partners__item:nth-child(3) {
+.partners__first>.partners__item:nth-child(3) {
     margin-right: 30px;
 }
+
 /* .partners__item:nth-child(5) { */
-    /* margin-right: 80px; */ */
+/* margin-right: 80px; */
+*/
 /* }
 
 /* .partners__sеcond {
