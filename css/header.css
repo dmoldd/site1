@@ -51,6 +51,10 @@
 	color: #FFFFFF;
 }
 
+.contacts {
+	display: flex;
+	flex-direction: column;
+}
 
 .contacts__info {
 	/* font-family: 'OpenSans'; */
@@ -61,5 +65,4 @@
 	letter-spacing:normal;	
 	color: #FFFFFF;
 	text-align: right;
-
 }

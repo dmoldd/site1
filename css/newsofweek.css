@@ -106,7 +106,23 @@
     border: 1px solid #8F00FF;
 }
 
-
+.newsofweek__button:hover {
+    margin-bottom: 20px;
+    border-radius: 5px;
+    height: 55px;
+    width: 130px;
+    display: inline-block;
+    /* font-family: 'OpenSans'; */
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align:center;
+    vertical-align:middle;
+    padding-top: 18px;
+    background-color: #8F00FF;
+}
 
 .button--light {
 

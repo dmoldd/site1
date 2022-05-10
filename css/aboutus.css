@@ -4,6 +4,7 @@
 
 .aboutus {
     margin-top: 145px;
+    margin-bottom: -350px;
 }
 
 .aboutus__block {
@@ -64,4 +65,48 @@
     padding-top: 18px;
     border: 1px solid #FFFFFF;
 }
-        /*  */
+.lastgames__navigation {
+    margin-top: 63px;
+    padding-bottom: 90px;
+    text-align: center;
+    /* font-family: 'OpenSans'; */
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #ffffff;
+}
+
+.lastgames__navigation--item {
+    /* font-family: 'OpenSans'; */
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    color: #ffffff;
+    padding: 2px 4px ;
+}
+
+.lastgames__navigation--button {
+    display: inline-block;
+}
+
+.lastgames__navigation--button:hover {
+    /* font-family: 'OpenSans'; */
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    color: #ffffff;
+    background-color: #8F00FF;
+    border-radius: 70%;
+    padding: 0px 6px ;
+}
+
+.lastgames__navigation--text {
+    margin-right: 30px;
+    /* font-family: 'OpenSans'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #ffffff;
+    padding-right: 65px;
+}

@@ -1,5 +1,5 @@
 .gamesitems {
-    padding-top: 105px;
+    padding-top: 98px;
     margin-bottom: 60px;
     background: #FFFFFF;
     display: flex;
@@ -53,10 +53,10 @@
 
 .gamesitems__navigation--text {
     margin-right: 30px;
-    font-family: 'OpenSans';
+    /* font-family: 'OpenSans'; */
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 20px;
     color: #000000;
     padding-right: 65px;
@@ -68,7 +68,7 @@
     margin-top: 63px;
     padding-bottom: 90px;
     text-align: center;
-    font-family: 'OpenSans';
+    /* font-family: 'OpenSans'; */
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
@@ -76,9 +76,25 @@
 }
 
 .gamesitems__navigation--item {
-    font-family: 'OpenSans';
+    /* font-family: 'OpenSans'; */
     font-weight: 700;
     font-size: 16px;
     line-height: 21px;
     color: #000000;
+    padding: 2px 4px ;
+}
+
+.gamesitems__navigation--button {
+    display: inline-block;
+}
+
+.gamesitems__navigation--button:hover {
+    /* font-family: 'OpenSans'; */
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    color: #ffffff;
+    background-color: #8F00FF;
+    border-radius: 70%;
+    padding: 0px 6px ;
 }

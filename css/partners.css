@@ -5,7 +5,7 @@
 
 
 .partners {
-    margin-top: -60px;
+    margin-top: -66px;
     padding-bottom: 115px;
     flex-direction: column;
     background: #F4F5F5;
@@ -35,6 +35,22 @@
 
 footer {
     padding-top: 35px;
+}
+
+.partners__item {
+    filter: grayscale(1);  
+}
+
+.partners__item:hover {
+    filter: grayscale(0);  
+}
+
+.partners__first > .partners__item:nth-child(2) {
+    margin-left: -80px;
+}
+
+.partners__first > .partners__item:nth-child(3) {
+    margin-right: 30px;
 }
 /* .partners__item:nth-child(5) { */
     /* margin-right: 80px; */ */
