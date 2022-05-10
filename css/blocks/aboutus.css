@@ -1,17 +1,12 @@
-/* .container {
-    position: absolute;
-} */
-
 .aboutus {
     margin-top: 145px;
     margin-bottom: -350px;
 }
 
 .aboutus__block {
-
     height: 505px;
     width: 486px;
-    background: url("../img/aboutus/aboutus1.png");
+    background: url("../../img/aboutus/aboutus1.png");
     background-repeat: no-repeat;
 }
 
@@ -21,7 +16,7 @@
     left: 350px;
     height: 455px;
     width: 785px;
-    background: url("../img/aboutus/aboutus2.png");
+    background: url("../../img/aboutus/aboutus2.png");
     background-repeat: no-repeat;
 }
 
@@ -31,7 +26,7 @@
 }
 
 .aboutus__block2--title {
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-weight: 700;
     font-size: 23px;
     line-height: 42px;
@@ -40,7 +35,7 @@
 
 .aboutus__block2--text {
     padding-top: 40px;
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-weight: 400;
     font-size: 16px;
     line-height: 27px;
@@ -54,7 +49,7 @@
     height: 55px;
     width: 168px;
     display: inline-block;
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
@@ -70,7 +65,7 @@
     margin-top: 63px;
     padding-bottom: 90px;
     text-align: center;
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
@@ -78,7 +73,7 @@
 }
 
 .lastgames__navigation--item {
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-weight: 700;
     font-size: 16px;
     line-height: 21px;
@@ -91,7 +86,7 @@
 }
 
 .lastgames__navigation--button:hover {
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-weight: 700;
     font-size: 16px;
     line-height: 21px;
@@ -103,7 +98,7 @@
 
 .lastgames__navigation--text {
     margin-right: 30px;
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;

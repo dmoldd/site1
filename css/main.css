@@ -1,32 +1,33 @@
- @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+ @import url(layout/fonts.css);
  /* ДОБАВИЛ ШРИФТЫ  */
 
- @import url(header.css);
+ @import url(layout/base.css);
+ /* ПОДКЛЮЧИЛ CSS-ФАЙЛ С НАСТРОЙКАМИ ПО УМОЛЧАНИЮ */
+
+ @import url(blocks/header.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ ХЭДЭРА */
 
- @import url(hello.css);
+ @import url(blocks/hello.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ ПРИВЕТСТВИЯ */
 
- @import url(newsofweek.css);
+ @import url(blocks/newsofweek.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ "НОВИНКИ НЕДЕЛИ" */
 
- @import url(lastgames.css);
+ @import url(blocks/lastgames.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ "ПРОШЕДШИЕ ИГРЫ" */
 
- @import url(aboutus.css);
+ @import url(blocks/aboutus.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ "О НАС" */
 
- @import url(footer.css);
+ @import url(blocks/footer.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ ФУТЭРА */
 
- @import url(hellogames.css);
+ @import url(blocks/hellogames.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ СЕКЦИИ "ИГРЫ-ПРИВЕТСТВИЕ" */
 
- @import url(gamesitems.css);
+ @import url(blocks/gamesitems.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ СЕКЦИИ "ИГРЫ" */
 
- @import url(partners.css);
+ @import url(blocks/partners.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ СЕКЦИИ "ПАРТНЕРЫ" */
 
- @import url(base.css);
- /* ПОДКЛЮЧИЛ CSS-ФАЙЛ С НАСТРОЙКАМИ ПО УМОЛЧАНИЮ */

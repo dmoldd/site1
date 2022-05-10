@@ -4,7 +4,7 @@
 }
 
 .title--new {
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
@@ -33,7 +33,7 @@
 }
 
 .newsofweek__title {
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-weight: 700;
     font-size: 24px;
     line-height: 28px;
@@ -56,7 +56,7 @@
 }
 
 .newsofweek__feature--text {
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -69,7 +69,7 @@
     margin-top: 24px;
     margin-bottom: 29px;
     width: 324px;
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-weight: 400;
     font-size: 14px;
     line-height: 21px;
@@ -97,7 +97,7 @@
     height: 55px;
     width: 130px;
     display: inline-block;
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
@@ -115,7 +115,7 @@
     height: 55px;
     width: 130px;
     display: inline-block;
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;

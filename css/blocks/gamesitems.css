@@ -30,7 +30,7 @@
 }
 
 .gamesitems__text {
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-weight: 400;
     font-size: 16px;
     line-height: 27px;
@@ -40,7 +40,7 @@
 }
 
 .gamesitems__item--title {
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-weight: 700;
     font-size: 36px;
     line-height: 28px;
@@ -54,7 +54,7 @@
 
 .gamesitems__navigation--text {
     margin-right: 30px;
-    /* font-family: 'OpenSans'; */
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;

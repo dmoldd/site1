@@ -35,7 +35,7 @@ img {
 }
 
 .wrapper__content--main {
-	background: url("../img/background.png");
+	background: url("../../img/background.png");
 	background-repeat: no-repeat;
 }
 
