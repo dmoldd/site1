@@ -4,6 +4,9 @@
  @import url(layout/base.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ С НАСТРОЙКАМИ ПО УМОЛЧАНИЮ */
 
+ @import url(layout/normalize.css);
+ /* ПОДКЛЮЧИЛ CSS-ФАЙЛ С НАСТРОЙКАМИ ПО УМОЛЧАНИЮ */
+
  @import url(blocks/header.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ ХЭДЭРА */
 
