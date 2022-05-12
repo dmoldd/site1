@@ -34,3 +34,6 @@
  @import url(blocks/partners.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ СЕКЦИИ "ПАРТНЕРЫ" */
 
+ @import url(blocks/hello__main.css);
+ /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ СЕКЦИИ "СТАРТОВАЯ СТРАНИЦА" */
+

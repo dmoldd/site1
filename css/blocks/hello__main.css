@@ -1,0 +1,15 @@
+.hello__main {
+    /* margin-top: -50px; */
+    position: relative;
+    /* min-width: 1920px; */
+    /* min-height: 960px; */
+    min-width: 100%;
+    min-height: 100%;
+    background: url('../../img/background__hello.jpg');
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hello__button {
+    /* margin-top:100px; */
+}
