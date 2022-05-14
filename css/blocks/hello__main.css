@@ -13,8 +13,26 @@
 
 .hello__button {
     position: absolute;
-    margin:auto;
+    /* margin:auto; */
+    transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
     /* z-index: 0; */
+    background: #8F00FF;
+    border-radius: 5px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    /* height: 55px;
+    width: 168px; */
+    display: table-cell;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center;
+    vertical-align: middle;
 }
