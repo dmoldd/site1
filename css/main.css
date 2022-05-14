@@ -37,3 +37,9 @@
  @import url(blocks/hello__main.css);
  /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ СЕКЦИИ "СТАРТОВАЯ СТРАНИЦА" */
 
+ @import url(blocks/choisegame.css);
+ /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ СЕКЦИИ "ВЫБОР ИГРЫ" */
+
+ @import url(blocks/leavecomment.css);
+ /* ПОДКЛЮЧИЛ CSS-ФАЙЛ СО СТИЛЯМИ СЕКЦИИ "ОСТАВЬТЕ КОММЕНТАРИЙ" */
+

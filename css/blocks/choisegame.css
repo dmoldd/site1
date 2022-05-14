@@ -1,0 +1,14 @@
+.choisegame {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 85px;
+}
+
+.choisegame__item {
+    display: flex;
+    background: #F4F5F5;
+    min-width: 557px;
+    min-height: 100px;
+}
