@@ -3,12 +3,12 @@
     background: #F4F5F5;
 }
 
-.input {
+.input, input {
     background: #FFFFFF;
-    border: 1px solid #8F00FF;
     border-radius: 5px;
     height: 65px;
     width: 557px;
+    border: 1px solid #FFFFFF;
 }
 
 .leavecomment__block1 {
@@ -32,8 +32,11 @@
 .input__clienttext {
     margin-top: 26px;
     background: #FFFFFF;
-    border: 1px solid #8F00FF;
+    border-radius: 5px;
     border-radius: 5px;
     height: 235px;
     width: 1142px;
 }
+
+
+    
